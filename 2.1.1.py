@@ -1,10 +1,7 @@
 amount = 0
-input_number = int(input())
-while input_number != 0:
+while True:
+    input_number = int(input())
+    if input_number == 0:
+        break
     amount += input_number
-    input_number += 1
-    i
 print(amount)
-
-
-
