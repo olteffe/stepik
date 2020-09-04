@@ -8,9 +8,3 @@ for i in range(int(input())):
         list_out.append(int(dict_base[x]))
 for i in list_out:
     print(i)
-
-
-
-
-
-
