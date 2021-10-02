@@ -4,6 +4,7 @@
 # Temp
 test.py
 *.txt
+!requirements.txt
 
 
 ### VirtualEnv template
